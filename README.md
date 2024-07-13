@@ -1,5 +1,5 @@
 ## Hey, my name is Sergei Ionin, welcome to my page!
-##About
+## About
 I'm a software developer specializing in (functional) Scala and Golang. 
 
 ## Skills
@@ -12,11 +12,12 @@ I'm a software developer specializing in (functional) Scala and Golang.
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue)
 
-## Projects
-- [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
-- [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
+## Scala Projects
 - [fs2=kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
 
+## Golang Projects
+- [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
+- [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
 <!--
 **SergeiIonin/SergeiIonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
