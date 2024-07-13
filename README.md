@@ -13,11 +13,14 @@ I'm a software developer specializing in (functional) Scala and Golang.
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue)
 
 ## Scala Projects
-- [fs2=kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
+- [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
+- [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
 
 ## Golang Projects
 - [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
 - [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
+- [Kafka Time Windows Utils](https://github.com/SergeiIonin/golang_kafka_window_utils)
+
 <!--
 **SergeiIonin/SergeiIonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
