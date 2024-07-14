@@ -21,6 +21,16 @@ I'm a software developer specializing in (functional) Scala and Golang.
 - [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
 - [Kafka Time Windows Utils](https://github.com/SergeiIonin/golang_kafka_window_utils)
 
+## Publications
+### Long Reads
+ - 📖![Scala](https://img.shields.io/badge/Scala-red) [Error Handling in Cats Effect](https://www.baeldung.com/scala/cats-effect-error-handling)
+ - 📖![Scala](https://img.shields.io/badge/Scala-red) [Cancellation in Cats Effect](https://www.baeldung.com/scala/cats-effect-cancellation)
+### Short Articles
+ - 📖![Scala](https://img.shields.io/badge/Scala-red) [Class Composition with Mixins](https://www.baeldung.com/scala/class-composition-mixins)
+ - 📖![Scala](https://img.shields.io/badge/Scala-red) [Stream vs Views vs Iterators in Scala](https://www.baeldung.com/scala/stream-vs-views-vs-iterators)
+ - 📖![Scala](https://img.shields.io/badge/Scala-red) [Access Modifiers in Scala](https://www.baeldung.com/scala/access-modifiers)
+ - 📖![Scala](https://img.shields.io/badge/Scala-red) [Create a Random Sample of Fixed Size From a Scala List](https://www.baeldung.com/scala/list-uniform-sample)
+
 <!--
 **SergeiIonin/SergeiIonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
