@@ -1,6 +1,13 @@
 ## Hey, my name is Sergei Ionin, welcome to my page!
 ## About
-I'm a software developer specializing in (functional) Scala and Golang. 
+I'm a software developer proficient in Scala and Golang. 
+
+Primarily I'm interested in developing of streaming application backed by Kafka (w/ or w/o Schema Registry), event driven architecture, concurrent applications, containerization with Docker and Kubernetes, and development with AWS!
+
+Check out my job records (and connect 🙂) on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-ionin-8a188a108)
+
 
 ## Skills
 - ![Scala](https://img.shields.io/badge/Scala-Programming-red)
@@ -15,8 +22,8 @@ I'm a software developer specializing in (functional) Scala and Golang.
 ## Scala Projects
 - [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
 - [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
-- [CSV Reader with Spark (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
-- [Websockets example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
+- [CSV Reader with Spark and Cats-Effect (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
+- [Websockets Example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
 
 ## Golang Projects
 - [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
