@@ -16,6 +16,7 @@ I'm a software developer specializing in (functional) Scala and Golang.
 - [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
 - [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
 - [CSV Reader with Spark (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
+- [Websockets example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
 
 ## Golang Projects
 - [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
