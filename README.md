@@ -7,6 +7,7 @@ Primarily I'm interested in developing of streaming application backed by Kafka 
 Check out my job records (and connect 🙂) on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-ionin-8a188a108)
+[![Open to Work](https://img.shields.io/badge/open_to_work-ON-darkgreen)](https://www.linkedin.com/in/sergei-ionin-8a188a108)
 
 
 ## Skills
