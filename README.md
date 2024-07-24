@@ -1,8 +1,7 @@
-## Hey, my name is Sergei Ionin, welcome to my page!
 ## About
 I'm a software developer proficient in Scala and Golang. 
 
-Primarily I'm interested in developing of streaming application backed by Kafka (w/ or w/o Schema Registry), event driven architecture, microservices, concurrent applications, containerization with Docker and Kubernetes, and development with AWS!
+Primarily I'm interested in event driven architecture, developing of streaming applications backed by Kafka (w/ or w/o Schema Registry), microservices, concurrent applications, containerization with Docker and Kubernetes, and development with AWS!
 
 Check out my job records (and connect 🙂) on LinkedIn:
 
@@ -43,18 +42,3 @@ Check out my job records (and connect 🙂) on LinkedIn:
  - ![Scala](https://img.shields.io/badge/Scala-red) [Stream vs Views vs Iterators in Scala](https://www.baeldung.com/scala/stream-vs-views-vs-iterators)
  - ![Scala](https://img.shields.io/badge/Scala-red) [Access Modifiers in Scala](https://www.baeldung.com/scala/access-modifiers)
  - ![Scala](https://img.shields.io/badge/Scala-red) [Create a Random Sample of Fixed Size From a Scala List](https://www.baeldung.com/scala/list-uniform-sample)
-
-<!--
-**SergeiIonin/SergeiIonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
