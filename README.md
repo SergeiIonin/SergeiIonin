@@ -1,7 +1,7 @@
 ## About
-I'm a software developer proficient in Scala and Golang. 
+I'm a software developer proficient in `Scala` and `Golang`. 
 
-Primarily I'm interested in event driven architecture, developing of streaming applications backed by Kafka (w/ or w/o Schema Registry), microservices, concurrent applications, containerization with Docker and Kubernetes, and development with AWS!
+Primarily I'm interested in event driven architecture, developing of streaming applications backed by `Kafka` (w/ or w/o `Schema Registry`), microservices, concurrent applications, containerization with `Docker` and `Kubernetes`, and development with `AWS`!
 
 Check out my job records (and connect 🙂) on LinkedIn:
 
