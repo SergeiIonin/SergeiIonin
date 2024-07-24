@@ -22,6 +22,7 @@ Check out my job records (and connect 🙂) on LinkedIn:
 
 ## Scala Projects
 - [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
+- [Contracts Registrator (register protobuf-based contracts used between microservices)](https://github.com/SergeiIonin/ContactsRegistrator)
 - [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
 - [CSV Reader with Spark and Cats-Effect (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
 - [Websockets Example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
