@@ -13,12 +13,14 @@ Check out my job records (and connect 🙂) on LinkedIn:
 ## Skills
 - ![Scala](https://img.shields.io/badge/Scala-Programming-red)
 - ![Golang](https://img.shields.io/badge/Golang-Programming-blue)
-- ![Kafka](https://img.shields.io/badge/Kafka-MessageBroker-black)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
-- ![Postgres](https://img.shields.io/badge/Postgres-Database-green)
+- ![Kafka](https://img.shields.io/badge/Kafka-MessageBroker-orange)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-Database-Blueviolet)
+- ![Postgres](https://img.shields.io/badge/Postgres-Database-Blueviolet)
+- ![Cassandra](https://img.shields.io/badge/Cassandra-Database-Blueviolet)
 - ![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue)
+- ![Grafana](https://img.shields.io/badge/Grafana-Observability-green)
 
 ## Scala Projects
 - [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
