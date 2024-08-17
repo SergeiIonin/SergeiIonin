@@ -22,8 +22,8 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - ![Grafana](https://img.shields.io/badge/Grafana-Observability-green)
 
 ## Scala Projects
-- [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
 - [Contracts Registry (registration of the protobuf-based contracts used between microservices)](https://github.com/SergeiIonin/ContractsRegistry)
+- [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
 - [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
 - [CSV Reader with Spark and Cats-Effect (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
 - [Websockets Example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
