@@ -38,6 +38,7 @@ Check out my job records (and connect 🙂) on LinkedIn:
 ### Long Reads
  - ![Scala](https://img.shields.io/badge/Scala-red) [Error Handling in Cats Effect](https://www.baeldung.com/scala/cats-effect-error-handling)
  - ![Scala](https://img.shields.io/badge/Scala-red) [Cancellation in Cats Effect](https://www.baeldung.com/scala/cats-effect-cancellation)
+ - ![Scala](https://img.shields.io/badge/Scala-red) [Overview of SBT Commands](https://www.baeldung.com/scala/sbt-commands)
 ### Short Articles
  - ![Scala](https://img.shields.io/badge/Scala-red) [Class Composition with Mixins](https://www.baeldung.com/scala/class-composition-mixins)
  - ![Scala](https://img.shields.io/badge/Scala-red) [Stream vs Views vs Iterators in Scala](https://www.baeldung.com/scala/stream-vs-views-vs-iterators)
