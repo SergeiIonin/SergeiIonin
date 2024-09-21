@@ -33,6 +33,7 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
 - [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
 - [Kafka Time Windows Utils](https://github.com/SergeiIonin/golang_kafka_window_utils)
+- [Golang AWS Utils](https://github.com/SergeiIonin/golang_aws_utils)
 
 ## Publications📖
 ### Long Reads
