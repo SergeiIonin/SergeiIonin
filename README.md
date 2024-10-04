@@ -1,5 +1,5 @@
 ## About
-I'm a software developer proficient in `Scala` and `Golang`. 
+I'm a software developer proficient in `Golang` and `Scala`. 
 
 Primarily I'm interested in event driven architecture, developing of streaming applications backed by `Kafka` (w/ or w/o `Schema Registry`), microservices, concurrent applications, containerization with `Docker` and `Kubernetes`, and development with `AWS`!
 
@@ -10,9 +10,9 @@ Check out my job records (and connect 🙂) on LinkedIn:
 
 
 ## Skills
+- ![Golang](https://img.shields.io/badge/Golang-Programming-blue)
 - ![Scala](https://img.shields.io/badge/Scala-Programming-red)
 - ![Java](https://img.shields.io/badge/Java-Programming-red)
-- ![Golang](https://img.shields.io/badge/Golang-Programming-blue)
 - ![Kafka](https://img.shields.io/badge/Kafka-MessageBroker-orange)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-Database-Blueviolet)
 - ![Postgres](https://img.shields.io/badge/Postgres-Database-Blueviolet)
@@ -22,18 +22,18 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue)
 - ![Grafana](https://img.shields.io/badge/Grafana-Observability-green)
 
+## Golang Projects
+- [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
+- [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
+- [Kafka Time Windows Utils](https://github.com/SergeiIonin/golang_kafka_window_utils)
+- [Golang AWS Utils](https://github.com/SergeiIonin/golang_aws_utils)
+
 ## Scala Projects
 - [Contracts Registry (registration of the protobuf-based contracts used between microservices)](https://github.com/SergeiIonin/ContractsRegistry)
 - [fs2-kafka Window Functions](https://github.com/SergeiIonin/fs2-kafka-window-functions)
 - [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
 - [CSV Reader with Spark and Cats-Effect (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
 - [Websockets Example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
-
-## Golang Projects
-- [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
-- [Docker Sandbox](https://github.com/SergeiIonin/docker_sandbox)
-- [Kafka Time Windows Utils](https://github.com/SergeiIonin/golang_kafka_window_utils)
-- [Golang AWS Utils](https://github.com/SergeiIonin/golang_aws_utils)
 
 ## Publications📖
 ### Long Reads
