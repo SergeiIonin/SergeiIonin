@@ -1,7 +1,7 @@
 ## About
 I'm a software developer proficient in `Golang` and `Scala`. 
 
-Primarily I'm interested in event driven architecture, developing of streaming applications backed by `Kafka` (w/ or w/o `Schema Registry`), microservices, concurrent applications, containerization with `Docker` and `Kubernetes`, and development with `AWS`!
+Primarily I'm interested in event driven architecture, developing of streaming applications backed by `Kafka` (w/ or w/o `Schema Registry`), gRPC, microservices, concurrent applications, containerization with `Docker` and `Kubernetes`, and development with `AWS`!
 
 Check out my job records (and connect 🙂) on LinkedIn:
 
@@ -14,6 +14,7 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - ![Scala](https://img.shields.io/badge/Scala-Programming-red)
 - ![Java](https://img.shields.io/badge/Java-Programming-red)
 - ![Kafka](https://img.shields.io/badge/Kafka-MessageBroker-orange)
+- ![gRPC](https://img.shields.io/badge/gRPC-Communication-orange)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-Database-Blueviolet)
 - ![Postgres](https://img.shields.io/badge/Postgres-Database-Blueviolet)
 - ![Cassandra](https://img.shields.io/badge/Cassandra-Database-Blueviolet)
@@ -21,6 +22,7 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue)
 - ![Grafana](https://img.shields.io/badge/Grafana-Observability-green)
+- ![DataDog](https://img.shields.io/badge/Datadog-Observability-green)
 
 ## Golang Projects
 - [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
@@ -34,6 +36,10 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - [ZIO Kafka Stream Processor](https://github.com/SergeiIonin/ZioKafkaStreamProcessor_sionin/tree/master)
 - [CSV Reader with Spark and Cats-Effect (just a project to learn some Spark essentials)](https://github.com/SergeiIonin/Spark_CSV_assgnmt_010323)
 - [Websockets Example with Tapir](https://github.com/SergeiIonin/websockets-tapir-example)
+
+## Other porjects
+- [OpenAI Translation Buddy](https://github.com/SergeiIonin/openai_translation_buddy)
+- [Authn and Authz Quick Reference](https://github.com/SergeiIonin/authn_n_authz_quick_reference)
 
 ## Publications📖
 ### Long Reads
