@@ -21,8 +21,10 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - ![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue)
+- ![Terraform](https://img.shields.io/badge/Terraform-IaC-violet)
 - ![Grafana](https://img.shields.io/badge/Grafana-Observability-green)
 - ![DataDog](https://img.shields.io/badge/Datadog-Observability-green)
+- ![Angular](https://img.shields.io/badge/Angular-Frontend-red)
 
 ## Golang Projects
 - [Kafka Updates Aggregator](https://github.com/SergeiIonin/kafka_updates_aggregator)
