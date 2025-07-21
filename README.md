@@ -13,6 +13,7 @@ Check out my job records (and connect 🙂) on LinkedIn:
 - ![Golang](https://img.shields.io/badge/Golang-Programming-blue)
 - ![Scala](https://img.shields.io/badge/Scala-Programming-red)
 - ![Java](https://img.shields.io/badge/Java-Programming-red)
+- ![Typescript](https://img.shields.io/badge/Typescript-Programming-blue)
 - ![Kafka](https://img.shields.io/badge/Kafka-MessageBroker-orange)
 - ![gRPC](https://img.shields.io/badge/gRPC-Communication-orange)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-Database-Blueviolet)
